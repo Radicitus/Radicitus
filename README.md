@@ -1,5 +1,5 @@
 <h3>Hello :wave:, I'm Cameron!</h3>
-I am a software developer looking to start my career in the tech industry. My current stack includes JavaScript, React, Node.js, CSS3, and HTML5. I am always looking forward to learning more!
+I am a software developer looking to start my career in the tech industry. My current stack includes JavaScript/TypeScript, React, Node.js, CSS3, and HTML5. If I'm not working out, figuring out how to dribble, or socializing you'll find me tapping away at my desk. I am always looking forward to learning more!
 
 <h3 align="left">Languages and Tools:</h3>
 <div display="flex">
